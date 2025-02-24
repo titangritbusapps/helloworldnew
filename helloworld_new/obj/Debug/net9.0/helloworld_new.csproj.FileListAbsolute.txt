@@ -1,0 +1,15 @@
+C:\HelloWorld\helloworldnew\helloworld_new\bin\Debug\net9.0\helloworld_new.exe
+C:\HelloWorld\helloworldnew\helloworld_new\bin\Debug\net9.0\helloworld_new.deps.json
+C:\HelloWorld\helloworldnew\helloworld_new\bin\Debug\net9.0\helloworld_new.runtimeconfig.json
+C:\HelloWorld\helloworldnew\helloworld_new\bin\Debug\net9.0\helloworld_new.dll
+C:\HelloWorld\helloworldnew\helloworld_new\bin\Debug\net9.0\helloworld_new.pdb
+C:\HelloWorld\helloworldnew\helloworld_new\obj\Debug\net9.0\helloworld_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\HelloWorld\helloworldnew\helloworld_new\obj\Debug\net9.0\helloworld_new.AssemblyInfoInputs.cache
+C:\HelloWorld\helloworldnew\helloworld_new\obj\Debug\net9.0\helloworld_new.AssemblyInfo.cs
+C:\HelloWorld\helloworldnew\helloworld_new\obj\Debug\net9.0\helloworld_new.csproj.CoreCompileInputs.cache
+C:\HelloWorld\helloworldnew\helloworld_new\obj\Debug\net9.0\helloworld_new.sourcelink.json
+C:\HelloWorld\helloworldnew\helloworld_new\obj\Debug\net9.0\helloworld_new.dll
+C:\HelloWorld\helloworldnew\helloworld_new\obj\Debug\net9.0\refint\helloworld_new.dll
+C:\HelloWorld\helloworldnew\helloworld_new\obj\Debug\net9.0\helloworld_new.pdb
+C:\HelloWorld\helloworldnew\helloworld_new\obj\Debug\net9.0\helloworld_new.genruntimeconfig.cache
+C:\HelloWorld\helloworldnew\helloworld_new\obj\Debug\net9.0\ref\helloworld_new.dll
